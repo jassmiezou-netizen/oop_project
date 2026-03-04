@@ -11,7 +11,8 @@ This project uses main OOP concepts: **Class and Objects, Encapsulation, Inherit
 - LibraryManager class: System management.
 
 ### 2. Encapsulation ###
-
+- Use the privite attributes: such as _id_num, _borrowed_books, _stock, it can protect the inner data.
+- During the public method: such as get_title(), reduce_stock(), it can access and edit data to ensure the security.
 ### 3. Inheritance ###
 
 ### 4. Polymorphism ###
